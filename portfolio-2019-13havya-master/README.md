@@ -28,3 +28,7 @@ Portfolio projects
    * Created algorithm to plot points according to cluster
    * Created algorithm to update centroids
    * Explained k-means clustering algorithm
+   
+
+
+#Transferred from University account to Personal account#
